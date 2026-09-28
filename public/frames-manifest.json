@@ -1,0 +1,9 @@
+{
+  "directory": "/frames",
+  "prefix": "frame_",
+  "pad": 4,
+  "extension": "webp",
+  "count": 359,
+  "first": "frame_0001.webp",
+  "last": "frame_0359.webp"
+}
